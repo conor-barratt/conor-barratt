@@ -21,8 +21,7 @@ Certifications & Accreditations
 * **Cisco:** Network Defense | Endpoint Security
 * **CyberExam:** GRC Fundamentals
 * **Ofqual:** Regulated Level 5 Diploma in Cyber Security
-
-* **Studying:** I’m currently studying for my CompTIA CySA exam
+* **In Progrerss:** I’m currently studying for my CompTIA CySA exam
 ---
 
 Connect & Verify
