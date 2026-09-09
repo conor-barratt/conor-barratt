@@ -25,7 +25,7 @@ Certifications & Accreditations
 * **Studying:** I’m currently studying for my CompTIA CySA exam
 ---
 
--- Connect & Verify
+Connect & Verify
 * [LinkedIn](https://www.linkedin.com/in/conor-barratt)
 
 <!--
