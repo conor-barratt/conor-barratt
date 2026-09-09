@@ -1,10 +1,10 @@
-- Conor Barratt
+Conor Barratt
 
 Systems & Cybersecurity Specialist with a focus on IT governance, infrastructure defense, and software lifecycle management.
 
 ---
 
-- Core Competencies & Tooling
+Core Competencies & Tooling
 
 * **Security Governance & Compliance:** Security vetting, technical risk assessment, GRC frameworks, access control models
 * **Infrastructure & Cloud:** Linux environments, Microsoft Azure, network architecture, endpoint security
@@ -13,7 +13,7 @@ Systems & Cybersecurity Specialist with a focus on IT governance, infrastructure
 
 ---
 
--- Certifications & Accreditations
+Certifications & Accreditations
 
 * **CompTIA:** A+ | Security+
 * **ISC2:** Certified in Cybersecurity (CC)
@@ -22,7 +22,7 @@ Systems & Cybersecurity Specialist with a focus on IT governance, infrastructure
 * **CyberExam:** GRC Fundamentals
 * **Ofqual:** Regulated Level 5 Diploma in Cyber Security
 
-🌱 I’m currently studying for my CompTIA CySA exam
+* **Studying:** I’m currently studying for my CompTIA CySA exam
 ---
 
 -- Connect & Verify
