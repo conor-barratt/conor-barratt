@@ -1,10 +1,10 @@
-Conor Barratt
+# Conor Barratt
 
 Systems & Cybersecurity Specialist with a focus on IT governance, infrastructure defense, and software lifecycle management.
 
 ---
 
-Core Competencies & Tooling
+## Core Competencies & Tooling
 
 * **Security Governance & Compliance:** Security vetting, technical risk assessment, GRC frameworks, access control models
 * **Infrastructure & Cloud:** Linux environments, Microsoft Azure, network architecture, endpoint security
@@ -13,7 +13,7 @@ Core Competencies & Tooling
 
 ---
 
-Certifications & Accreditations
+### Certifications & Accreditations
 
 * **CompTIA:** Security+ | A+
 * **ISC2:** Certified in Cybersecurity (CC)
@@ -24,7 +24,7 @@ Certifications & Accreditations
 
 ---
 
-### Connect & Verify
+#### Connect & Verify
 * [LinkedIn](https://www.linkedin.com/in/conor-barratt)
 
 <!--
